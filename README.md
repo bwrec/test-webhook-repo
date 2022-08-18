@@ -1,3 +1,3 @@
 # test-webhook-repo
 
-A repository to test webhooks. No useful content inside.
+A repository to test github webhooks. No useful content inside.
